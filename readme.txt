@@ -1,4 +1,4 @@
 this is text
 
-dev add string1
+master change string1
 
